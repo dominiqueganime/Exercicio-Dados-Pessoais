@@ -5,7 +5,7 @@ public class DadosPessoais {
 	int idade;
 	double altura;
 	
-//Contrutor:
+//Construtor:
 	
 public DadosPessoais() {
 	
