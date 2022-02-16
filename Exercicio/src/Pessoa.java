@@ -25,7 +25,7 @@ public class Pessoa {
 	
 
 	for (DadosPessoais listaDadosPessoais : pessoa) {
-		System.out.print(listaDadosPessoais);
+		System.out.println(listaDadosPessoais);
 	}
 	
 	
