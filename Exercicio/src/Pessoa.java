@@ -24,8 +24,8 @@ public class Pessoa {
 	pessoa.add(pessoa5);
 	
 
-	for (DadosPessoais p : pessoa) {
-		System.out.print(p);
+	for (DadosPessoais listaDadosPessoais : pessoa) {
+		System.out.print(listaDadosPessoais);
 	}
 	
 	
